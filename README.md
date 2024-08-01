@@ -28,9 +28,10 @@ Develop Charts based on Cuisines, City, and Ratings.
 Tools Used
 Tableau: Employed Tableau for visualizing Zomato restaurant data and generating insights.
 
+
 Why This Project?
 
-This project was created to demonstrate proficiency in data analysis and visualization tools such as Excel, SQL, Power BI, and Tableau. By analyzing Zomato restaurant data, valuable insights were obtained into industry trends, enabling informed decision-making and strategic planning.
+This project was created to demonstrate proficiency in data analysis and visualization Tableau. By analyzing Zomato restaurant data, valuable insights were obtained into industry trends, enabling informed decision-making and strategic planning.
 
 Conclusion
 This project represents a meticulous analysis endeavor aimed at unraveling the intricate patterns within Zomato restaurant data. By leveraging a combination of advanced Excel functions, SQL queries, and interactive dashboards with Tableau, we've unearthed valuable insights crucial for informed decision-making within the restaurant industry.
