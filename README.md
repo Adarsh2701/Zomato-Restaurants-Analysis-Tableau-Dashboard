@@ -1,9 +1,11 @@
 # Zomato-Restaurants-Analysis-Tableau-Dashboard
 
-Overview
+# Overview
 This project involves a comprehensive analysis of Zomato restaurant data using advanced Excel functions, SQL queries, and interactive dashboards created with Power BI and Tableau. The primary objective is to extract valuable insights into restaurant industry trends related to location, opening trends, ratings, and price ranges.
+# Dashborads
+https://github.com/Adarsh2701/Zomato-Restaurants-Analysis-Tableau-Dashboard/blob/main/Snapshot.png
 
-Objectives
+# Objectives
 
 Develop a comprehensive Country Map Table.
 
@@ -25,15 +27,15 @@ Develop Charts based on Cuisines, City, and Ratings.
 
 (Note: Key Performance Indicators (KPIs) are not limited solely to the above; experimentation with additional KPIs is encouraged.)
 
-Tools Used
+# Tools Used
 Tableau: Employed Tableau for visualizing Zomato restaurant data and generating insights.
 
 
-Why This Project?
+# Why This Project?
 
 This project was created to demonstrate proficiency in data analysis and visualization Tableau. By analyzing Zomato restaurant data, valuable insights were obtained into industry trends, enabling informed decision-making and strategic planning.
 
-Conclusion
+# Conclusion
 This project represents a meticulous analysis endeavor aimed at unraveling the intricate patterns within Zomato restaurant data. By leveraging a combination of advanced Excel functions, SQL queries, and interactive dashboards with Tableau, we've unearthed valuable insights crucial for informed decision-making within the restaurant industry.
 
 Your engagement is vital to the continuous enhancement of this project. Whether it's through cloning the repository, contributing with your insights, or connecting with me on LinkedIn, let's collaborate and elevate our understanding of the restaurant landscape together.
